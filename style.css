@@ -37,7 +37,7 @@ li a {
   display: flex;
   width: 700px;
   left: 50%;
-  top: 167%;
+  top: 152%;
   transform: translate(-50%, -50%);
   box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.25);
   user-select: none;
